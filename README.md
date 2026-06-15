@@ -17,10 +17,10 @@ A React + Vite project that fetches real-time weather data using OpenWeatherMap 
 ## Screenshots
 
 **Hot Weather**  
-![Hot Weather] <img src="Screenshot 201.png">
+<img src="Screenshot 201.png">
 
 **Rainy Weather**  
-![Rainy Weather] <img src="Screenshot 203.png">
+<img src="Screenshot 203.png">
 
 **Cold Weather**  
-![Cold Weather] <img src="Screenshot 202.png">
+<img src="Screenshot 202.png">
