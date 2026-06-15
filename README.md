@@ -17,10 +17,10 @@ A React + Vite project that fetches real-time weather data using OpenWeatherMap 
 ## Screenshots
 
 **Hot Weather**  
-![Hot Weather](https://github.com/AdarshVerma1968/weather-app-react/blob/main/Screenshot%20(164).png?raw=true)
+![Hot Weather] <img src="Screenshot 201.png">
 
 **Rainy Weather**  
-![Rainy Weather](https://github.com/AdarshVerma1968/weather-app-react/blob/main/Screenshot%20(165).png?raw=true)
+![Rainy Weather] <img src="Screenshot 203.png">
 
 **Cold Weather**  
-![Cold Weather](https://github.com/AdarshVerma1968/weather-app-react/blob/main/Screenshot%20(166).png?raw=true)
+![Cold Weather] <img src="Screenshot 202.png">
